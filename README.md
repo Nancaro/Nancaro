@@ -22,7 +22,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancaro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![Snake animation](https://github.com/Nancaro/Nancaro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Nancaro/Nancaro/blob/output/github-contribution-grid-snake.svg)
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
