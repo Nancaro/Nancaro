@@ -66,5 +66,13 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-### Contacto
-- 📫 How to reach me: Nancaro@hotmail.com
+  
+
+## Contact and support:
+  <div>
+   <a href="https://www.paypal.com/paypalme/Nancaro/" target="_blank"><img src=" https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+   <a href="https://ceneka.net/mp/d/Nancaro/" target="_blank"><img src=" https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+   <a href = "mailto:Nancaro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  </div>
+ 
+ 
