@@ -4,6 +4,14 @@
 
 ![https://github.com/Nancaro](https://github.com/Nancaro/Bruno-Aguirre/blob/main/banner.png)
 
+## About me:
+Hey, my name is Bruno Aguirre (He/Him) I'm 27 years old. 
+I'm a Spanish Language and Literature teacher and due to life I'm also a programmer since a few years ago.
+
+I've always been interested in technology and how it works, I've always been curious and self-taught, I want this github to reflect my dream of growing as a professional in the software development industry.
+
+In 2023 I plan to move to Brazil, specifically to São Luís de Maranhão. I currently live in Santa Cruz, Argentina. And I start to create programming content and share my experience as a gamer on platforms like Twitch and Youtube. I'm always willing to learn and improve, I would like that some person could use some of the repositories of this Github ❤️
+
 ## Find me on:
 <div> 
   <a href="https://twitter.com/nancaro_/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -18,7 +26,7 @@
  <a href="https://discord.gg/VmYHCtZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.youtube.com/channel/UCZnWNawflnA82gWdBWPICjA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     </div>
- 
+
   
   ## Technologies:
   <div> 
@@ -40,10 +48,12 @@
    </br>
    <a href="Unity" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
    <a href="Heroku" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
-   <a href="Windows" target="_blank"><img src="	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-   </br>
    <a href="JS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+   </br>
+   <a href="Windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   </div>
+ 
+ ## Stats:
  
 <div align="justify">
   <a href="https://github.com/Nancaro">
@@ -51,17 +61,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancaro&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
+  ## Contributions:
  ![Snake animation](https://github.com/Nancaro/Nancaro/blob/output/github-contribution-grid-snake.svg)
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-  
-
 ## Contact and support:
   <div>
    <a href="https://www.paypal.com/paypalme/Nancaro/" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
