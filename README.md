@@ -1,6 +1,6 @@
 # ![Emote heart](https://github.com/Nancaro/Bruno-Aguirre/blob/main/NANCAROEMOTEHEARTH11256.png) Hi, my name is Bruno Aguirre 👋👨🏻‍💻
 
-### I am a Full Stack Developer with 1 year experience. Check out my content! 👇
+### I am a Full Stack Developer & Game developer. Check out my content! 👇
 
 ![https://github.com/Nancaro](https://github.com/Nancaro/Bruno-Aguirre/blob/main/banner.png)
 
