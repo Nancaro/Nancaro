@@ -4,7 +4,7 @@
 
 ![https://github.com/Nancaro](https://github.com/Nancaro/Bruno-Aguirre/blob/main/banner.png)
 
-## About me:
+## ![Emote heart](https://github.com/Nancaro/Bruno-Aguirre/blob/main/emotebruno56.png) About me:
 Hey, my name is Bruno Aguirre (He/Him) I'm 27 years old. 
 I'm a Spanish Language and Literature teacher and due to life I'm also a programmer since a few years ago.
 
@@ -61,10 +61,10 @@ In 2023 I plan to move to Brazil, specifically to São Luís de Maranhão. I cur
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nancaro&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
-  ## Contributions:
+  ## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/strugnancaro56.png) Contributions:
  ![Snake animation](https://github.com/Nancaro/Nancaro/blob/output/github-contribution-grid-snake.svg)
   
-## Contact and support:
+## ![Emote pride](https://github.com/Nancaro/Bruno-Aguirre/blob/main/nancaroemotepogpride11256.png) Contact and support:
   <div>
    <a href="https://www.paypal.com/paypalme/Nancaro/" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
    <a href="https://ceneka.net/mp/d/Nancaro/" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
