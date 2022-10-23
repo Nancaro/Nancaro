@@ -4,6 +4,15 @@
 
 ![https://github.com/Nancaro](https://github.com/Nancaro/Bruno-Aguirre/blob/main/banner.png)
 
+## Language of the readme:
+<div> 
+You can read this readme in 3 languages
+</br>
+<a href="https://github.com/Nancaro/Nancaro/blob/main/README.md/" target="_blank"><img src="https://github.com/Nancaro/Bruno-Aguirre/blob/main/united-kingdom.png" target="_blank"></a>
+<a href="https://github.com/Nancaro/Bruno-Aguirre/blob/main/Readme%20em%20portugu%C3%AAs.md/" target="_blank"><img src="https://github.com/Nancaro/Bruno-Aguirre/blob/main/brazil.png" target="_blank"></a>
+<a href="https://github.com/Nancaro/Bruno-Aguirre/blob/main/Readme%20en%20espa%C3%B1ol.md/" target="_blank"><img src="https://github.com/Nancaro/Bruno-Aguirre/blob/main/spain.png" target="_blank"></a>
+</div> 
+
 ## ![Emote heart](https://github.com/Nancaro/Bruno-Aguirre/blob/main/emotebruno56.png) About me:
 Hey, my name is Bruno Aguirre (He/Him) I'm 27 years old. 
 I'm a Spanish Language and Literature teacher and due to life I'm also a programmer since a few years ago.
